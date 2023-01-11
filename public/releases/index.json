@@ -1,0 +1,95 @@
+{
+  "latest": {
+    "barbet": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/barbet-factory-202102100.zip"
+      }
+    ],
+    "bramble": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/bramble-factory-202102100.zip"
+      }
+    ],
+    "redfin": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/redfin-factory-202102100.zip"
+      }
+    ],
+    "sunfish": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/sunfish-factory-202102100.zip"
+      }
+    ],
+    "coral": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/coral-factory-202102100.zip"
+      }
+    ],
+    "flame": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/flame-factory-202102100.zip"
+      }
+    ],
+    "bonito": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/bonito-factory-202102100.zip"
+      }
+    ],
+    "sargo": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/sargo-factory-202102100.zip"
+      }
+    ],
+    "crosshatch": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/crosshatch-factory-202102100.zip"
+      }
+    ],
+    "blueline": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/blueline-factory-202102100.zip"
+      }
+    ],
+    "taimen": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/taimen-factory-202102100.zip"
+      }
+    ],
+    "walleye": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/walleye-factory-202102100.zip"
+      }
+    ],
+    "jasmine_sprout": [
+      {
+        "version": "2021-10-07",
+        "variant": "stable",
+        "url": "https://release.beachinstitute.org/jasmine_sprout-factory-202102100.zip"
+      }
+    ]
+  }
+}
